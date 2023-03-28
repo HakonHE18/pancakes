@@ -1,2 +1,2 @@
 ## PANCAKES
-pancakes taste good.
+- pancakes taste good.
